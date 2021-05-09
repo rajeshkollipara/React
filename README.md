@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-To run this Project, Clone the respository and run the start Command.
-
+To run this Project, Clone the respository and run the npm install and start Command 
+### `npm install`
 ### `npm start`
 
 Runs the app in the development mode.\
