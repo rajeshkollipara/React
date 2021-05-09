@@ -1,0 +1,7 @@
+.forecast-min-max-temp {
+  justify-content: space-evenly;
+  display: flex;
+  width: 100%;
+  margin-bottom: 16px;
+  color: white;
+}

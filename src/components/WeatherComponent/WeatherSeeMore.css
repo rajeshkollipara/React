@@ -1,0 +1,10 @@
+.see-more {
+  background-color: tomato;
+  height: 30px;
+  width: 100px;
+  border-color: white;
+  margin: 20px;
+  border: none;
+  border-radius: 8px;
+  color: white;
+}
